@@ -1,0 +1,18 @@
+# Virtual environment
+env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE ve editör dosyaları
+.idea/
+.vscode/
+
+# Hassas bilgiler
+.env
+
+# Gereksiz günlük ve sistem dosyaları
+*.log
+.DS_Store
